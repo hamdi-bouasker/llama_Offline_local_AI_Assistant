@@ -15,7 +15,7 @@ An ultra-fast, 100% private, and offline personal AI copilot running locally on 
 
 ## 🏗️ System Architecture & Data Flow
 
-![System Architecture]([https://github.com/hamdi-bouasker/llama_Offline_local_AI_Assistant/blob/master/Offline_AI_Assistant_System_Architecture.jpg])
+![Offline_AI_Assistant_System_Architecture.jpg](https://github.com/hamdi-bouasker/llama_Offline_local_AI_Assistant/blob/master/Offline_AI_Assistant_System_Architecture.jpg)                     
 ---
 
 ## 💡 Hardware & Model Recommendations
